@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Build
+bin/
+obj/
+dist/
+out/
+
+# IDEs
+.vscode/
+.idea/
+
+# Secretos
+.env
+*.key
